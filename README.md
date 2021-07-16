@@ -18,11 +18,16 @@ strong correlation with attributes G2 and G1.
 ## Attribute Information:
  school - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho 
 da Silveira)
+
  sex - student's sex (binary: 'F' - female or 'M' - male)
+
  age - student's age (numeric: from 15 to 22)
+
  address - student's home address type (binary: 'U' - urban or 'R' - rural)
+
  famsize - family size (binary: 'LE3' - less or equal to 3 or 'GT3' - greater than 
 3)
+
  Pstatus - parent's cohabitation status (binary: 'T' - living together or 'A' - apart)
  Medu - mother's education (numeric: 0 - none, 1 - primary education (4th 
 grade), 2 - “ 5th to 9th grade, 3 - “ secondary education or 4 - “ higher 
